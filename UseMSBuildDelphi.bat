@@ -1,0 +1,1 @@
+py UseMsBuildDelphi.py "C:\Path\project.dproj"
